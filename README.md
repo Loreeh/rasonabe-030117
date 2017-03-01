@@ -7,7 +7,7 @@ $ git clone https://github.com/Loreeh/rasonabe-030117.git
 $ cd foldername
 * Create new github repo (reponame: rasonabe-030117)
 $ git add .
-$ git commit -m "Noob"
+$ git commit -m "I am 4k"
 $ git remote add rasonabe-030117 https://github.com/Loreeh/rasonabe-030117.git
 $ git push -u rasonabe-030117 master 
 $ heroku login
